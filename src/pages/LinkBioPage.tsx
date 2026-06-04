@@ -39,7 +39,6 @@ const links = [
 
 const socials = [
   { icon: Send, href: "https://t.me/shstshp", label: "Telegram" },
-  { icon: MessageCircle, href: "#", label: "WhatsApp" },
   { icon: Mail, href: "#", label: "Email" },
 ]
 
