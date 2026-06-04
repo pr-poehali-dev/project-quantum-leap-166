@@ -32,13 +32,13 @@ const links = [
   {
     title: "Связаться с менеджером",
     description: "Подберём нужную позицию и цену",
-    href: "#",
+    href: "https://t.me/shstshp",
     icon: Phone,
   },
 ]
 
 const socials = [
-  { icon: Send, href: "#", label: "Telegram" },
+  { icon: Send, href: "https://t.me/shstshp", label: "Telegram" },
   { icon: MessageCircle, href: "#", label: "WhatsApp" },
   { icon: Mail, href: "#", label: "Email" },
 ]
