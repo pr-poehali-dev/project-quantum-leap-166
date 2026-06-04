@@ -1,3 +1,16 @@
-# project-quantum-leap-166
+# GlassLinks — визитка со стеклянным эффектом
 
-Initial repository setup for pr-poehali-dev/project-quantum-leap-166
+![Preview](https://cdn.poehali.dev/templates/liquid-glass-bio-ru/preview-ru.jpg)
+
+Стильная страница-визитка в стиле "link in bio" с эффектом матового стекла (glassmorphism). Анимированный градиентный фон и полупрозрачные карточки создают современный премиальный вид. Идеально для блогеров, фрилансеров и креативщиков.
+
+Включает:
+- Профиль с аватаром
+- Карточки ссылок с hover-эффектами
+- Анимированный фон
+- Социальные иконки
+- Glassmorphism дизайн
+
+```
+"tags": ["hero", "glass", "creative", "animations"]
+```
