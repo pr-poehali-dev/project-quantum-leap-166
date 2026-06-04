@@ -211,7 +211,7 @@ export function LinkBioPage() {
       >
         <motion.div variants={itemVariants} className="pt-2">
           <ProfileSection
-            name="ТрубыКлимат"
+            name="SHUST-SHOP"
             bio="Полипропилен · Климатика · Монтажный инструмент"
             imageUrl="https://cdn.poehali.dev/projects/eca71937-1367-4c2e-89ae-e4e61edac0d3/files/bbb2e110-2434-4fdc-8aca-8a265632c2f5.jpg"
           />
@@ -226,7 +226,7 @@ export function LinkBioPage() {
         </motion.div>
 
         <motion.div variants={itemVariants} className="pb-2">
-          <SocialFooter socials={socials} copyright="2025 ТрубыКлимат" />
+          <SocialFooter socials={socials} copyright="2025 SHUST-SHOP" />
         </motion.div>
       </motion.div>
     </main>
