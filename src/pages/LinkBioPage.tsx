@@ -39,7 +39,7 @@ const links = [
 
 const socials = [
   { icon: Send, href: "https://t.me/shstshp", label: "Telegram" },
-  { icon: Mail, href: "#", label: "Email" },
+  { icon: Mail, href: "mailto:sh.a@shst-shop.ru", label: "Email" },
 ]
 
 const containerVariants = {
