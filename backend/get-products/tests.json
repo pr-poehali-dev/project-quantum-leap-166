@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "name": "Получение товаров с Яндекс.Маркет",
+      "method": "GET",
+      "path": "/",
+      "expectedStatus": 200,
+      "expectedBody": {"products": []},
+      "bodyMatcher": "partial"
+    }
+  ]
+}
